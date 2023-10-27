@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 """
 KERI
-keri.kli.witness module
+citadel.app.cli module
 
-Witness command line interface
+Citadel command line interface
 """
 import argparse
 import logging
@@ -31,4 +31,4 @@ def launch(args):
             app.build()
         )
 
-    ft.app(target=main, assets_dir="/Users/pfeairheller/git_root/citadel/assets")
+    ft.app(target=main, assets_dir="../.../../../../assets")

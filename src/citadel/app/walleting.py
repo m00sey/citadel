@@ -33,7 +33,7 @@ class CitadelApp:
         self.members = []
 
         self.page.vertical_alignment = ft.MainAxisAlignment.CENTER
-        self.page.title = "Citadel"
+        self.page.title = "Citadellllllll"
 
         self.page.window_width = 800
         self.page.window_height = 600
